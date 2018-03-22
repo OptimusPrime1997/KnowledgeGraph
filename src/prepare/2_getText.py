@@ -20,7 +20,6 @@ def get_Wiki_Text(itemname):
     # 设置正确的编码方式
     r.encoding = r.apparent_encoding
     print("end:" + str(r.encoding))
-
     return r.text
 
 
@@ -37,11 +36,19 @@ def beatifulsoup_handle(content):
     h.single_line_break = True
     cctag = soup.find_all("p")
     list = []
+    i = 0
     for t in cctag:
         temp = (h.handle(str(t)))
-        temp1 = re.sub("\n", "", temp)
-        print(temp1)
-        list.append(temp1)
+        # 依次为除去空行，除去[]引用标记，除去（）内容
+        temp1 = re.sub("\n|\[[0-9]+\]|\([0-9A-Za-z\ ,-_*\/]+\)", "", temp)
+
+        if re.match(".*[A-Za-z0-9,\ ]+.*", temp1):
+            print(str(i) + ":" + temp1)
+            list.append(temp1)
+            i = i + 1
+        else:
+            pass
+            print("pass:" + str(temp1))
     return list
 
 
@@ -51,7 +58,7 @@ def write_file(list, filepath):
         content = content + t + "\n"
     with open(filepath, mode="a", encoding="utf-8") as f:
         f.write(content)
-
+    return content
 
 def wikitextclawer_main(itemname, filepath):
     html = get_Wiki_Text(itemname)
@@ -60,3 +67,9 @@ def wikitextclawer_main(itemname, filepath):
 
 
 wikitextclawer_main("Arachidonic acid", "../../data/wikitext.text")
+
+# {"brand":"Chrono-Log Corporation","brand2":"","catalogidtree":"-1\/1\/13568","catalognametree":"试剂\/分子生物学试剂",
+# "catnum":"P\/N 390","catnum2":"","clickcounts":0,"commoditycode":"","companyid":"8ab3e0165e2712f2015e50c765170959",
+# "companyname":"安诺伦（北京）生物科技有限公司","id":"8ab3e0166217cb4701623c26a8db0cc0","itemname":"Arachidonic Acid",
+# "itemsid":"8ab3e0166217cb4701623c26a8db0cbf","kindid":"cbbbe26ceb444c04b2a4da3cfa20efa7","kindtype":0,"packing":"",
+# "price":3165.0,"sellcounts":0,"shopcounts":0,"spec":"盒","status":"1","tprice":"","updatetime":0,"visible":"1","wlqz":0}
