@@ -73,14 +73,21 @@ def readTheText(filepath=None):
     queryText = """select itemname,wikiText from itemtext order by itemname ASC;"""
     results = querydb(db, queryText)
     print("itemname,wikitext")
-    content=""
+    content = ""
     for r in results:
-        content=content+r[0] + "||" + r[1]+"\n"
-        print(r[0] + "||" + r[1])
-    if filepath!=None:
-        with open(filepath,mode="w",encoding="utf-8") as f:
+        temp = re.sub("\*\*", "", r[1])
+        content = content + r[0] + "||" + temp + "\n"
+        print(r[0] + "||" + temp)
+    if filepath != None:
+        with open(filepath, mode="w", encoding="utf-8") as f:
             f.write(content)
 
+
 if __name__ == "__main__":
-    filepath="../../data/itemwiki.txt"
+    filepath = "../../data/itemwiki.txt"
     readTheText(filepath)
+    # readTheText(None)
+    # str="** Iotalamic acid **"
+    # print(str)
+    # str1=re.sub("\*","",str)
+    # print(str1)
