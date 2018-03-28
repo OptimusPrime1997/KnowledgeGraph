@@ -1,4 +1,5 @@
 # coding=utf-8
+# 读取数据库的名词和响应的text，并打印存储
 import traceback
 import json
 import pymysql

@@ -1,0 +1,7 @@
+Piromidic	O
+acid	O
+is	O
+a	O
+quinolone	O
+antibiotic	O
+.	O

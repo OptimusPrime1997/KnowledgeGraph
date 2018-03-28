@@ -1,5 +1,5 @@
 # coding=utf-8
-# draft 9_wikitextclawer
+# 从wiki上爬取对应名词的text
 import requests
 import simplejson
 import html2text

@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding=utf-8
+# 将5lai上爬取的名词和wiki上爬取的text都存入数据库
 import traceback
 import json
 import pymysql
@@ -241,7 +242,6 @@ def saveWikiText():
         excuteOrUpdate(db, insertSql)
         ltexts.append(texts)
         print("ltexts length:" + str(len(ltexts)))
-
 
     # j = 0
     #
