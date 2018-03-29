@@ -1,7 +1,7 @@
 Triglycerides	O
 of	O
 oleic	O
-acid	O
+acid	MEDICINE
 compose	O
 the	O
 majority	O
@@ -18,7 +18,7 @@ than	O
 %	PERCENT
 as	O
 free	O
-acid	O
+acid	MEDICINE
 in	O
 virgin	O
 olive	O

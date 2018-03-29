@@ -1,5 +1,5 @@
-Niflumic	MISC
-acid	O
+Niflumic	MEDICINE
+acid	MEDICINE
 is	O
 a	O
 drug	O
@@ -8,7 +8,7 @@ for	O
 joint	O
 and	O
 muscular	O
-pain	O
+pain	DISEASE
 .	O
 It	O
 iscategorized	O
@@ -16,7 +16,7 @@ as	O
 an	O
 inhibitor	O
 of	O
-cyclooxygenase-2	O
+cyclooxygenase-2	MEDICINE
 .	O
 In	O
 experimental	O

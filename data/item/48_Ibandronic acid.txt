@@ -1,4 +1,4 @@
-Ibandronate	O
+Ibandronate	MEDICINE
 is	O
 indicated	O
 for	O
@@ -55,14 +55,14 @@ daily	SET
 oral	O
 doses	O
 of	O
-calcium	O
+calcium	MEDICINE
 and400IUs	O
 -LSB-	O
 international	O
 units	O
 -RSB-	O
 of	O
-vitamin	O
+vitamin	MEDICINE
 D	O
 .	O
 At	O

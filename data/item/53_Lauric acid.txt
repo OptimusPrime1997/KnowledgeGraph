@@ -1,5 +1,5 @@
-Lauric	O
-acid	O
+Lauric	MEDICINE
+acid	MEDICINE
 increases	O
 total	O
 serum	O
@@ -35,8 +35,7 @@ As	O
 a	O
 result	O
 ,	O
-lauric	O
-acid	O
+lauric_acid	acid
 hasbeen	O
 characterized	O
 as	O
@@ -48,12 +47,12 @@ favorable	O
 effect	O
 on	O
 total	O
-HDL	O
+HDL	acid
 cholesterolthan	O
 any	O
 other	O
 fatty	O
-acid	O
+acid	acid
 -LSB-	O
 examined	O
 -RSB-	O
@@ -98,8 +97,7 @@ that	O
 the	O
 neteffects	O
 of	O
-lauric	O
-acid	O
+lauric_acid	MEDICINE
 on	O
 coronary	O
 artery	O
@@ -111,7 +109,7 @@ A	O
 2016	DATE
 review	O
 of	O
-coconut	O
+coconut MEDICINE
 oil	O
 was	O
 similarly	O
@@ -121,5 +119,5 @@ the	O
 effects	O
 on	O
 cardiovascular	O
-diseaserisk	O
+diseaserisk	DISEASE
 .	O

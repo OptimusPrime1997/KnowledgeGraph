@@ -2,7 +2,7 @@ Fasting	O
 plasma	O
 levels	O
 of	O
-HVA	O
+HVA	MEDICINE
 are	O
 known	O
 to	O
@@ -75,5 +75,5 @@ significantly	O
 lower	O
 amountsof	O
 plasma	O
-HVA	O
+HVA	MEDICINE
 .	O

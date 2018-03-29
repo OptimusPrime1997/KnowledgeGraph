@@ -1,5 +1,5 @@
-Iopanoic	O
-acid	O
+Iopanoic	MEDICINE
+acid	MEDICINE
 is	O
 an	O
 iodine-containing	O
@@ -9,11 +9,11 @@ used	O
 incholecystography	O
 .	O
 Both	O
-iopanoic	O
-acid	O
+iopanoic	MEDICINE
+acid	MEDICINE
 and	O
-ipodate	O
-sodium	O
+ipodate MEDICINE
+sodium	MEDICINE
 are	O
 potent	O
 inhibitorsof	O
@@ -30,15 +30,15 @@ as	O
 of	O
 peripheralconversion	O
 of	O
-thyroxine	O
+thyroxine		MEDICINE
 to	O
-triiodothyronine	O
+triiodothyronine	MEDICINE
 .	O
 These	O
 compoundsinhibit	O
 5	NUMBER
 `	O
-deiodinase	O
+deiodinase	MEDICINE
 -LRB-	O
 5	NUMBER
 `	O
@@ -48,7 +48,7 @@ and	O
 `	O
 DID-2	O
 -RRB-	O
-enzymes	O
+enzymes	MEDICINE
 ,	O
 which	O
 catalyse	O
@@ -94,7 +94,7 @@ as	O
 anadjunctive	O
 therapy	O
 with	O
-thioamides	O
+thioamides	MEDICINE
 .	O
 They	O
 canbe	O
@@ -106,7 +106,7 @@ of	O
 patients	O
 with	O
 severe	O
-thyrotoxicosis	O
+thyrotoxicosis	DISEASE
 -LRB-	O
 thyroidstorm	O
 -RRB-	O
@@ -118,7 +118,7 @@ control	O
 of	O
 elevated	O
 plasma	O
-triiodothyronine	O
+triiodothyronine	MEDICINE
 concentrations	O
 .	O
 The	O
@@ -128,7 +128,7 @@ acid	O
 for	O
 treatment	O
 of	O
-thyrotoxicosis	O
+thyrotoxicosis	DISEASE
 has	O
 been	O
 discontinued	O

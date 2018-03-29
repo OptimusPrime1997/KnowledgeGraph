@@ -1,5 +1,5 @@
 Iotalamic	MISC
-acid	O
+acid	MEDICINE
 and	O
 its	O
 salts	O
@@ -20,14 +20,14 @@ It	O
 is	O
 available	O
 as	O
-sodium	O
-iothalamate	O
+sodium	MEDICINE
+iothalamate	MEDICINE
 -LRB-	O
-Iothalamatesodium	O
+Iothalamate_sodium	MEDICINE
 -RRB-	O
 and	O
-meglumine	O
-iothalamate	O
+meglumine	MEDICINE
+iothalamate	MEDICINE
 .	O
 It	O
 can	O

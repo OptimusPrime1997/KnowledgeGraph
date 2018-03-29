@@ -44,7 +44,7 @@ an	O
 enzyme	O
 ,	O
 inosinemonophosphate	O
-dehydrogenase	O
+dehydrogenase	MEDICINE
 ,	O
 which	O
 is	O
@@ -163,8 +163,8 @@ an	O
 antibacterial	O
 compound	O
 ,	O
-mycophenolate	O
-mofetil	O
+mycophenolate	MEDICINE
+mofetil	MEDICINE
 ,	O
 which	O
 was	O
@@ -240,5 +240,5 @@ under	O
 the	O
 brand	O
 name	O
-CellCept	O
+CellCept	MEDICINE
 .	O

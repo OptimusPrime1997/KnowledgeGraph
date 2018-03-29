@@ -1,5 +1,5 @@
-Neochlorogenic	MISC
-acid	O
+Neochlorogenic	MEDICINE
+acid	MEDICINE
 is	O
 a	O
 natural	O
@@ -26,6 +26,6 @@ It	O
 isan	O
 isomer	O
 of	O
-chlorogenic	O
-acid	O
+chlorogenic	MEDICINE
+acid	MEDICINE
 .	O

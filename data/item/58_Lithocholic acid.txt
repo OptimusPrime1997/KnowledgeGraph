@@ -21,7 +21,7 @@ yeast	O
 .	O
 The	O
 bile	O
-acid	O
+acid	MEDICINE
 accumulates	O
 inthe	O
 inner	O
