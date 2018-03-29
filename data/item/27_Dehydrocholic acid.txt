@@ -1,5 +1,5 @@
-Dehydrocholic	O
-acid	O
+Dehydrocholic	MEDICINE
+acid	MEDICINE
 is	O
 a	O
 synthetic	O
@@ -9,7 +9,8 @@ acid	O
 manufactured	O
 by	O
 the	O
-oxidationof	O
+oxidation	O
+of	O
 cholic	O
 acid	O
 .	O
@@ -23,7 +24,8 @@ increasing	O
 bile	O
 output	O
 to	O
-clearincreased	O
+clear	O
+increased	O
 bile	O
 acid	O
 load	O

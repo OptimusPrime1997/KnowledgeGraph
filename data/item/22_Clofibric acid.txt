@@ -1,5 +1,5 @@
-Clofibric	O
-acid	O
+Clofibric	MEDICINE
+acid	MEDICINE
 is	O
 a	O
 herbicide	O

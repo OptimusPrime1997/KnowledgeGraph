@@ -1,5 +1,5 @@
-Cichoric	O
-acid	O
+Cichoric	MEDICINE
+acid	MEDICINE
 has	O
 been	O
 shown	O
@@ -24,9 +24,10 @@ hyaluronidase	O
 an	O
 enzyme	O
 that	O
-breaksdown	O
-hyaluronic	O
-acid	O
+breaks	O
+down	O
+hyaluronic	MEDICINE
+acid	MEDICINE
 in	O
 the	O
 human	O

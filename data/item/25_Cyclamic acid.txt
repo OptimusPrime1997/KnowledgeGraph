@@ -1,5 +1,5 @@
-Cyclamic	O
-Acid	O
+Cyclamic	MEDICINE
+Acid	MEDICINE
 is	O
 mainly	O
 used	O
@@ -10,7 +10,8 @@ the	O
 production	O
 of	O
 paints	O
-andplastics	O
+and	O
+plastics	O
 ,	O
 and	O
 furthermore	O

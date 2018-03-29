@@ -7,12 +7,12 @@ and	ORGANIZATION
 Drug	ORGANIZATION
 Administration	ORGANIZATION
 approved	O
-acetohydroxamic	O
-acid	O
+acetohydroxamic	MEDICINE
+acid	MEDICINE
 as	O
 an	O
-orphan	O
-drug	O
+orphan	MEDICINE
+drug	MEDICINE
 for	O
 `	O
 prevention	O
@@ -35,7 +35,8 @@ can	O
 not	O
 be	O
 patented	O
-becauseit	O
+because	O
+it	O
 is	O
 a	O
 standard	O

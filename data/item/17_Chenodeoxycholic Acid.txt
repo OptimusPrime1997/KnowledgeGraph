@@ -1,5 +1,5 @@
-Chenodeoxycholic	O
-acid	O
+Chenodeoxycholic	MEDICINE
+acid	MEDICINE
 is	O
 synthesized	O
 in	O
@@ -8,7 +8,8 @@ liver	O
 from	O
 cholesterol	O
 by	O
-aprocess	O
+a	O
+process	O
 which	O
 involves	O
 several	O
@@ -20,7 +21,8 @@ other	O
 bile	O
 acids	O
 ,	O
-itcan	O
+it	O
+can	O
 be	O
 conjugated	O
 in	O
@@ -71,8 +73,8 @@ will	O
 be	O
 reabsorbed	O
 .	O
-Bile	O
-acids	O
+Bile	MEDICINE
+acids	MEDICINE
 form	O
 micelles	O
 which	O
@@ -110,10 +112,10 @@ colon	O
 to	O
 form	O
 thesecondary	O
-bile	O
-acid	O
+bile	MEDICINE
+acid	MEDICINE
 known	O
 as	O
-lithocholic	O
-acid	O
+lithocholic	MEDICINE
+acid	MEDICINE
 .	O

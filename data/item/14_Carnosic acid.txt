@@ -1,5 +1,5 @@
-Carnosic	O
-acid	O
+Carnosic	MEDICINE
+acid	MEDICINE
 is	O
 used	O
 as	O
@@ -10,7 +10,8 @@ antioxidant	O
 in	O
 food	O
 and	O
-nonfoodproducts	O
+nonfood
+products	O
 -LRB-	O
 e.g.	O
 toothpaste	O
@@ -24,7 +25,8 @@ in	O
 which	O
 it	O
 has	O
-anantimicrobial	O
+an	O
+antimicrobial	O
 effect	O
 on	O
 the	O
@@ -36,7 +38,8 @@ breath	O
 -	O
 or	O
 skin	O
-careproducts	O
+care	O
+products	O
 -RRB-	O
 .	O
 -LSB-	O

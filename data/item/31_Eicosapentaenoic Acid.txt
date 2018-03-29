@@ -10,7 +10,8 @@ EPA	ORGANIZATION
 ALA	PERSON
 is	O
 itself	O
-anessential	O
+an	O
+essential	O
 fatty	O
 acid	O
 ,	O
@@ -23,7 +24,8 @@ must	O
 be	O
 ensured	O
 .	O
-Theefficiency	O
+The	O
+efficiency	O
 of	O
 the	O
 conversion	O
@@ -38,7 +40,8 @@ is	O
 much	O
 lower	O
 than	O
-theabsorption	O
+the	O
+absorption	O
 of	O
 EPA	ORGANIZATION
 from	O
@@ -63,7 +66,8 @@ of	O
 EPA	ORGANIZATION
 on	O
 a	O
-dietcontaining	O
+diet	O
+containing	O
 neither	O
 EPA	ORGANIZATION
 nor	O
@@ -88,7 +92,8 @@ use	O
 of	O
 EPA	ORGANIZATION
 to	O
-metabolizeinto	O
+metabolize	O
+into	O
 DHA	ORGANIZATION
 .	O
 Medical	O
@@ -98,7 +103,8 @@ diabetes	CAUSE_OF_DEATH
 or	O
 certain	O
 allergies	O
-maysignificantly	O
+may	O
+significantly	O
 limit	O
 the	O
 human	O

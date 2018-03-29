@@ -1,5 +1,5 @@
-Diatrizoic	O
-acid	O
+Diatrizoic	MEDICINE
+acid	MEDICINE
 may	O
 be	O
 used	O
@@ -20,7 +20,8 @@ such	O
 as	O
 upper	O
 gastrointestinal	O
-seriesand	O
+series	O
+and	O
 small	O
 bowel	O
 series	O
@@ -34,7 +35,8 @@ in	O
 patients	O
 who	O
 are	O
-allergicto	O
+allergic	O
+to	O
 barium	O
 ,	O
 or	O
@@ -48,7 +50,9 @@ leak	O
 into	O
 the	O
 abdominal	O
-cavity.It	O
+cavity	O
+.	O
+It	O
 does	O
 not	O
 coat	O
@@ -64,7 +68,8 @@ so	O
 it	O
 is	O
 not	O
-usedcommonly	O
+used	O
+commonly	O
 for	O
 this	O
 purpose	O

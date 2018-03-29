@@ -42,7 +42,8 @@ Aside	O
 from	O
 wine	O
 ,	O
-itis	O
+it	O
+is	O
 abundantly	O
 present	DATE
 in	O

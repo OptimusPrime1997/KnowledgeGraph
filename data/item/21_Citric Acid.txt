@@ -29,7 +29,8 @@ as	O
 food	O
 because	O
 they	O
-lackthe	O
+lack	O
+the	O
 enzymes	O
 required	O
 to	O
@@ -43,7 +44,8 @@ After	O
 tens	O
 of	O
 thousand	NUMBER
-ofevolution	O
+of	O
+evolution	O
 in	O
 a	O
 minimal	O
@@ -53,7 +55,8 @@ that	O
 also	O
 contains	O
 citrate	O
-duringRichard	O
+during
+Richard	PERSON
 Lenski	PERSON
 's	O
 Long-Term	MISC
@@ -66,7 +69,8 @@ _	O
 E.	O
 coli	O
 _	O
-evolvedwith	O
+evolved	O
+with	O
 the	O
 ability	O
 to	O
@@ -80,7 +84,8 @@ Blount	PERSON
 ,	O
 a	O
 student	TITLE
-ofLenski	O
+of
+Lenski	PERSON
 's	O
 ,	O
 and	O
@@ -97,7 +102,8 @@ coli	TITLE
 _	O
 as	O
 a	O
-modelfor	O
+model	O
+for	O
 how	O
 novel	O
 traits	O
@@ -110,7 +116,8 @@ that	O
 in	O
 this	O
 case	O
-theinnovation	O
+the	O
+innovation	O
 was	O
 immediately	O
 caused	O
@@ -120,7 +127,8 @@ rare	O
 duplication	O
 mutation	O
 that	O
-waseffective	O
+was	O
+effective	O
 in	O
 causing	O
 the	O
@@ -159,7 +167,8 @@ been	O
 considered	O
 a	O
 notable	O
-exampleof	O
+example	O
+of	O
 the	O
 role	O
 of	O

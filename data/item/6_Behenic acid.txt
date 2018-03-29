@@ -1,7 +1,7 @@
 Commercially	O
 ,	O
-behenic	O
-acid	O
+behenic	MEDICINE
+acid	MEDICINE
 is	O
 often	O
 used	O
@@ -9,7 +9,8 @@ to	O
 give	O
 hair	O
 conditioners	O
-andmoisturizers	O
+and	O
+moisturizers	O
 their	O
 smoothing	O
 properties	O
@@ -48,8 +49,8 @@ driplesscandles	O
 .	O
 Reduction	O
 of	O
-behenic	O
-acid	O
+behenic	MEDICINE
+acid	MEDICINE
 yields	O
 behenyl	O
 alcohol	O

@@ -1,5 +1,5 @@
-Flufenamic	O
-acid	O
+Flufenamic	MEDICINE
+acid	MEDICINE
 is	O
 a	O
 member	O
@@ -34,8 +34,9 @@ formation	O
 of	O
 prostaglandins	O
 .	O
-Flufenamic	O
-acidis	O
+Flufenamic	MEDICINE
+acid	MEDICINE
+is	O
 known	O
 to	O
 bind	O
@@ -48,6 +49,7 @@ of	O
 prostaglandin	O
 F	O
 synthase	O
-andactivate	O
+and	O
+activate	O
 TRPC6	O
 .	O

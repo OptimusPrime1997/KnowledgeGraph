@@ -6,7 +6,8 @@ about	O
 the	O
 atom-numbering	O
 of	O
-chlorogenicacid	O
+chlorogenica	MEDICINE
+cid	MEDICINE
 .	O
 The	O
 order	O
@@ -16,11 +17,12 @@ of	O
 atoms	O
 on	O
 the	O
-quinic	O
-acid	O
+quinic	MEDICINE
+acid	MEDICINE
 ring	O
 was	O
-reversedin	O
+reversed	O
+in	O
 1976	DATE
 following	O
 IUPAC	ORGANIZATION
@@ -92,8 +94,8 @@ some	O
 of	O
 the	O
 lesscommon	O
-chlorogenic	O
-acids	O
+chlorogenic	MEDICINE
+acids	MEDICINE
 .	O
 -LSB-	O
 _	NUMBER

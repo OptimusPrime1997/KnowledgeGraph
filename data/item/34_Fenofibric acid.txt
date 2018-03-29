@@ -11,7 +11,8 @@ in	O
 .	O
 This	O
 reformulation	O
-iscontroversial	O
+is	O
+controversial	O
 ,	O
 as	O
 it	O
@@ -24,7 +25,8 @@ to	O
 stifle	O
 competition	O
 from	O
-genericequivalents	O
+generic	O
+equivalents	O
 of	O
 the	O
 drug	O
@@ -36,7 +38,8 @@ subject	O
 of	O
 antitrust	O
 litigation	O
-bygeneric	O
+by	O
+generic	O
 drug	O
 manufacturer	TITLE
 Teva	ORGANIZATION
@@ -77,7 +80,8 @@ of	O
 Lofibra	LOCATION
 capsules	O
 are	O
-currentlyavailable	O
+currently	O
+available	O
 in	O
 all	O
 three	NUMBER
@@ -91,7 +95,8 @@ In	O
 Europe	LOCATION
 ,	O
 it	O
-isavailable	O
+is	O
+available	O
 in	O
 either	O
 coated	O
@@ -124,7 +129,8 @@ to	O
 particle	O
 size	O
 .	O
-Forexample	O
+For	O
+example	O
 ,	O
 200	NUMBER
 mg	O
@@ -151,7 +157,8 @@ in	O
 which	O
 also	O
 replaces	O
-200or	O
+200	NUMBER
+or	O
 160	NUMBER
 mg	O
 as	O

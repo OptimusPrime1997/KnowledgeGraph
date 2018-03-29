@@ -1,10 +1,10 @@
-Corosolic	O
-acid	O
+Corosolic	MEDICINE
+acid	MEDICINE
 is	O
 a	O
-pentacyclic	O
-triterpene	O
-acid	O
+pentacyclic	MEDICINE
+triterpene	MEDICINE
+acid	MEDICINE
 found	O
 in	O
 _	NUMBER
@@ -23,7 +23,8 @@ acid	O
 differing	O
 only	O
 in	O
-thefact	O
+the	O
+fact	O
 that	O
 it	O
 has	O

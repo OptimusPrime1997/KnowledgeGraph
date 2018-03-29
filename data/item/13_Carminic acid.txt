@@ -1,11 +1,12 @@
-Carminic	O
-acid	O
+Carminic	MEDICINE
+acid	MEDICINE
 is	O
 a	O
 red	O
 glucosidal	O
 hydroxyanthrapurin	O
-thatoccurs	O
+that	O
+occurs	O
 naturally	O
 in	O
 some	O
@@ -17,7 +18,8 @@ as	O
 the	O
 cochineal	O
 ,	O
-Armeniancochineal	O
+Armenian	COUNTRY
+cochineal	O
 ,	O
 and	O
 Polish	NATIONALITY
@@ -30,7 +32,8 @@ the	O
 acid	O
 as	O
 a	O
-deterrentto	O
+deter	O
+rentto	O
 predators	O
 .	O
 An	O
@@ -43,7 +46,8 @@ is	O
 the	O
 coloring	O
 agent	O
-incarmine	O
+in	O
+carmine	O
 .	O
 Synonyms	O
 are	O

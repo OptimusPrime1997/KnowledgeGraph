@@ -1,5 +1,5 @@
-Dehydroacetic	O
-acid	O
+Dehydroacetic	MEDICINE
+acid	MEDICINE
 is	O
 an	O
 organic	O
@@ -7,7 +7,8 @@ compound	O
 which	O
 has	O
 several	O
-industrialapplications	O
+industrial	O
+applications	O
 .	O
 The	O
 compound	O
@@ -31,7 +32,8 @@ powder	O
 ,	O
 almost	O
 insoluble	O
-inwater	O
+in	O
+water	O
 and	O
 moderately	O
 soluble	O

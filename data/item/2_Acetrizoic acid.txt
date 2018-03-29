@@ -1,12 +1,13 @@
-Acetrizoic	O
-acid	O
+Acetrizoic	MEDICINE
+acid	MEDICINE
 -LRB-	O
 trade	O
 names	O
 Gastrografina	LOCATION
 ,	O
 Urografina	O
-inPortugal	O
+in	O
+Portugal	COUNTRY
 -RRB-	O
 is	O
 a	O

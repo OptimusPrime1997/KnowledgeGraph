@@ -1,5 +1,5 @@
-Ferulic	O
-acid	O
+Ferulic	MEDICINE
+acid	MEDICINE
 is	O
 converted	O
 by	O
@@ -11,7 +11,8 @@ yeast	O
 notably	O
 strains	O
 used	O
-inbrewing	O
+in	O
+brewing	O
 of	O
 wheat	O
 beers	O
@@ -75,8 +76,8 @@ fluorescens	O
 _	O
 ,	O
 a	O
-ferulic	O
-acid	O
+ferulic	MEDICINE
+acid	MEDICINE
 decarboxylase	O
 has	O
 been	O

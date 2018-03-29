@@ -6,7 +6,8 @@ activity	O
 ,	O
 which	O
 prevents	O
-boneresorption	O
+bonere	O
+sorption	O
 ,	O
 and	O
 thus	O
@@ -15,7 +16,8 @@ the	O
 bone	O
 resorption/formation	O
 equilibrium	O
-towardthe	O
+toward	O
+the	O
 formation	O
 side	O
 and	O
@@ -40,7 +42,8 @@ bone	O
 calcification	O
 .	O
 For	O
-thisreason	O
+this	O
+reason	O
 ,	O
 other	O
 bisphosphonates	O
@@ -61,7 +64,8 @@ without	O
 affecting	O
 too	O
 much	O
-bonecalcification	O
+bone	O
+calcification	O
 ,	O
 etidronate	O
 must	O
@@ -89,7 +93,8 @@ When	O
 given	O
 on	O
 a	O
-continuousbasis	O
+continuous	O
+basis	O
 ,	O
 say	O
 every	SET
@@ -100,7 +105,9 @@ will	O
 altogether	O
 prevent	O
 bone	O
-calcification.This	O
+calcification	O
+.	O
+This	O
 effect	O
 may	O
 be	O

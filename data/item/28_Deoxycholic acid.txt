@@ -13,7 +13,8 @@ exercise	O
 ,	O
 affect	O
 the	O
-levelof	O
+level	O
+of	O
 deoxycholate	O
 in	O
 the	O
@@ -26,7 +27,8 @@ were	O
 switched	O
 from	O
 their	O
-usualdiet	O
+usual	O
+diet	O
 to	O
 a	O
 meat	O
@@ -42,7 +44,8 @@ days	DURATION
 ,	O
 deoxycholate	O
 in	O
-theirfeces	O
+their	O
+feces	O
 increased	O
 by	O
 factors	O
@@ -57,7 +60,8 @@ Rats	O
 fed	O
 diets	O
 with	O
-either30	PERCENT
+either	O
+30	PERCENT
 %	PERCENT
 beef	O
 tallow	O
@@ -69,7 +73,8 @@ tallow	O
 had	O
 almost	O
 2-fold	O
-moredeoxycholate	O
+more	O
+deoxycholate	O
 in	O
 their	O
 feces	O
@@ -82,7 +87,9 @@ to	O
 the	O
 low	O
 fat	O
-diet.In	O
+diet	O
+.	O
+In	O
 this	O
 study	O
 ,	O
@@ -94,7 +101,8 @@ elements	O
 of	O
 curcumin	O
 or	O
-caffeicacid	O
+caffeic	O
+acid	O
 to	O
 the	O
 rats	O
@@ -111,7 +119,8 @@ diet	O
 reduced	O
 the	O
 deoxycholate	O
-intheir	O
+in	O
+their	O
 feces	O
 to	O
 levels	O
@@ -126,7 +135,9 @@ on	O
 a	O
 low	O
 fat	O
-diet.Curcumin	O
+diet	O
+.	O
+Curcumin	O
 is	O
 a	O
 component	O
@@ -136,8 +147,8 @@ spice	O
 turmeric	O
 ,	O
 and	O
-caffeic	O
-acid	O
+caffeic	MEDICINE
+acid	MEDICINE
 is	O
 a	O
 componenthigh	O
@@ -147,8 +158,8 @@ fruits	O
 and	O
 spices	O
 .	O
-Caffeic	O
-acid	O
+Caffeic	MEDICINE
+acid	MEDICINE
 is	O
 also	O
 a	O
@@ -157,7 +168,7 @@ break-down	O
 product	O
 of	O
 chlorogenic	O
-acid	O
+	O
 ,	O
 high	O
 in	O
