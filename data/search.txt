@@ -1,0 +1,16 @@
+#acid已经有100个词了，剩余9个词每个词再收集20个词，扩充数据集
+acid //酸 药品
+
+//药品
+protein //蛋白质 药品
+sugar //糖 药品
+alcohol //酒精 药品
+liquid //液体 药品
+salt //盐 药品
+
+//工具
+fragment //粉碎 工具
+separation //分离 工具
+tube //试管 工具
+detection //监测 工具
+oxygen //氧气 工具
