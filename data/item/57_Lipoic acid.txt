@@ -3,8 +3,8 @@ mechanism	O
 and	O
 action	O
 of	O
-lipoic	O
-acid	O
+lipoic  MEDICINE
+acid	MEDICINE
 when	O
 supplied	O
 externally	O
@@ -13,8 +13,8 @@ anorganism	O
 is	O
 controversial	O
 .	O
-Lipoic	O
-acid	O
+Lipoic	MEDICINE
+acid	MEDICINE
 in	O
 a	O
 cell	O
@@ -103,8 +103,8 @@ scavengingactivity	O
 of	O
 LA	CITY
 toward	O
-hypochlorous	O
-acid	O
+hypochlorous	MEDICINE
+acid	MEDICINE
 -LRB-	O
 a	O
 bactericidal	O
@@ -143,8 +143,8 @@ LA	CITY
 is	O
 reduced	O
 to	O
-dihydrolipoic	O
-acid	O
+dihydrolipoic	MEDICINE
+acid	MEDICINE
 ,	O
 which	O
 isgenerally	O
@@ -186,7 +186,7 @@ sulfhydryls	O
 low	O
 intracellularconcentrations	O
 of	O
-DHLA	O
+DHLA	MEDICINE
 as	O
 well	O
 as	O
@@ -212,7 +212,7 @@ cell	O
 .	O
 Although	O
 both	O
-DHLA	O
+DHLA	MEDICINE
 and	O
 LA	CITY
 have	O
@@ -231,7 +231,7 @@ as	O
 mixeddisulfides	O
 with	O
 various	O
-cysteine	O
+cysteine	MEDICINE
 residues	O
 from	O
 cytosolic	O

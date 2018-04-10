@@ -1,5 +1,5 @@
-Oleanolic	MISC
-acid	O
+Oleanolic	MEDICINE
+acid	MEDICINE
 can	O
 be	O
 found	O

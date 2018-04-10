@@ -1,5 +1,4 @@
-Levomefolic	O
-acid	O
+Levomefolic_acid	MEDICINE
 -LRB-	O
 also	O
 known	O
@@ -15,7 +14,7 @@ and	O
 -5-methyltetrahydrofolate	O
 ,	O
 and	O
--5-MTHF	O
+-5-MTHF	MEDICINE
 -RRB-	O
 is	O
 the	O
@@ -34,7 +33,7 @@ DNA	MISC
 reproduction	O
 ,	O
 the	O
-cysteine	O
+cysteine	MEDICINE
 cycle	O
 and	O
 theregulation	O
@@ -69,11 +68,11 @@ in	O
 the	O
 methylation	O
 of	O
-homocysteine	O
+homocysteine	MEDICINE
 to	O
 formmethionine	O
 and	O
-tetrahydrofolate	O
+tetrahydrofolate	MEDICINE
 .	O
 THF	ORGANIZATION
 is	O
@@ -96,14 +95,14 @@ The	O
 un-methylated	O
 form	O
 ,	O
-folic	O
-acid	O
+folic	MEDICINE
+acid	MEDICINE
 ,	O
 is	O
 a	O
 syntheticform	O
 of	O
-folate	O
+folate	MEDICINE
 ,	O
 and	O
 must	O

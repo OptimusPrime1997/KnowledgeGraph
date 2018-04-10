@@ -1,5 +1,5 @@
-Geniposidic	O
-acid	O
+Geniposidic	MEDICINE
+acid	MEDICINE
 is	O
 a	O
 natural	O
@@ -9,7 +9,7 @@ compound	O
 classified	O
 as	O
 an	O
-iridoidglucoside	O
+iridoid_glucoside	MEDICINE
 ,	O
 found	O
 in	O
@@ -20,9 +20,9 @@ plants	O
 including	O
 _	NUMBER
 Eucommia	MISC
-ulmoides	O
+ulmoides	MEDICINE
 _	O
-and_Gardenia	O
-jasminoides	O
+Gardenia	MEDICINE
+jasminoides	MEDICINE
 _	O
 .	O

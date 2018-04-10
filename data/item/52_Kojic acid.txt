@@ -1,5 +1,5 @@
 Kojic	PERSON
-acid	O
+acid	MEDICINE
 appears	O
 to	O
 possess	O
@@ -70,7 +70,7 @@ Dogs	O
 pretreated	O
 with	O
 kojic	O
-acid	O
+acid	MEDICINE
 after	O
 whole-bodyexposure	O
 to	O

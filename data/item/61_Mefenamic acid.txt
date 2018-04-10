@@ -1,12 +1,12 @@
-Mefenamic	O
-acid	O
+Mefenamic	MEDICINE
+acid	MEDICINE
 is	O
 a	O
 member	O
 of	O
 the	O
-anthranilic	O
-acid	O
+anthranilic	MEDICINE
+acid	MEDICINE
 derivatives	O
 -LRB-	O
 orfenamate	O

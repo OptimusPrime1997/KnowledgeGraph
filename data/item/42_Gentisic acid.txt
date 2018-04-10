@@ -24,8 +24,8 @@ detect	O
 peptides	O
 incorporating	O
 the	O
-boronic	O
-acid	O
+boronic	MEDICINE
+acid	MEDICINE
 moiety	O
 byMALDI	O
 .	O

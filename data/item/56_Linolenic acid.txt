@@ -1,5 +1,5 @@
-Linolenic	O
-acid	O
+Linolenic	MEDICINE
+acid	MEDICINE
 is	O
 a	O
 type	O
@@ -13,8 +13,8 @@ refer	O
 to	O
 either	O
 of	O
-twooctadecatrienoic	O
-acids	O
+octadecatrienoic	MEDICINE
+acids	MEDICINE
 -LRB-	O
 i.e.	O
 with	O
