@@ -1,5 +1,5 @@
-Pipemidic	O
-acid	O
+Pipemidic	MEDICINE
+acid	MEDICINE
 is	O
 a	O
 member	O

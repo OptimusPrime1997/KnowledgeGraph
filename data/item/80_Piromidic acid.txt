@@ -1,5 +1,5 @@
-Piromidic	O
-acid	O
+Piromidic	MEDICINE
+acid	MEDICINE
 is	O
 a	O
 quinolone	O

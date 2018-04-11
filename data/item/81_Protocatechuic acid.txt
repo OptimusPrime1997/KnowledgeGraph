@@ -32,7 +32,7 @@ on	O
 TPA-induced	O
 mouse	O
 skin	O
-tumours	O
+tumours	DISEASE 
 .	O
 Depending	O
 on	O
@@ -50,7 +50,7 @@ could	O
 reduce	O
 or	O
 enhance	O
-tumourgrowth	O
+tumour	DISEASE
 .	O
 Similarly	O
 ,	O
@@ -71,14 +71,14 @@ In	O
 an	O
 _	O
 in	O
-vitro	O
+vitro	TOOL
 _	O
 model	TITLE
 using	O
 HL-60leukemiacells	O
 ,	O
-protocatechuic	O
-acid	O
+protocatechuic	MEDICINE
+acid	MEDICINE
 showed	O
 an	O
 antigenotoxic	O

@@ -1,5 +1,5 @@
-Quinic	O
-acid	O
+Quinic	MEDICINE
+acid	MEDICINE
 is	O
 a	O
 cyclitol	O
@@ -16,7 +16,7 @@ It	O
 is	O
 a	O
 crystalline	O
-acid	O
+acid	MEDICINE
 obtained	O
 from	O
 cinchona	O
@@ -34,9 +34,9 @@ synthetically	O
 by	O
 hydrolysis	O
 of	O
-chlorogenic	O
-acid.Quinic	O
-acid	O
+chlorogenic	MEDICINE
+acid	MEDICINE
+acid	MEDICINE
 is	O
 also	O
 implicated	O
@@ -53,5 +53,5 @@ aconstituent	O
 of	O
 the	O
 tara	O
-tannins	O
+tannins	MEDICINE
 .	O

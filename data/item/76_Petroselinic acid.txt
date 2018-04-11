@@ -1,5 +1,5 @@
-Petroselinic	O
-acid	O
+Petroselinic	MEDICINE
+acid	MEDICINE
 is	O
 a	O
 fatty	O
@@ -28,8 +28,8 @@ In	O
 chemical	O
 terms	O
 ,	O
-petroselinic	O
-acid	O
+petroselinic	MEDICINE
+acid	MEDICINE
 is	O
 classified	O
 as	O
@@ -59,7 +59,7 @@ CH4COOH	O
 The	O
 term	O
 `	O
-petroselinic	O
+petroselinic	MEDICINE
 `	O
 means	O
 related	O
@@ -75,13 +75,13 @@ _	NUMBER
 Petroselinum	O
 _	O
 ,	O
-parsley.Petroselinic	O
-acid	O
+Petroselinic	MEDICINE
+acid	MEDICINE
 is	O
 a	O
 positional	O
 isomer	O
 of	O
-oleic	O
-acid	O
+oleic	MEDICINE
+acid	MEDICINE
 .	O

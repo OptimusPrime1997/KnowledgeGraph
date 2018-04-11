@@ -20,8 +20,8 @@ the	O
 side	O
 chain	O
 of	O
-p-coumaric	O
-acid	O
+p-coumaric	MEDICINE
+acid	MEDICINE
 .	O
 It	O
 is	O
@@ -29,7 +29,7 @@ alsoan	O
 urinary	O
 metabolite	O
 of	O
-tyrosine	O
+tyrosine	MEDICINE
 in	O
 rats	O
 .	O

@@ -1,5 +1,5 @@
-Oxolinic	O
-acid	O
+Oxolinic	MEDICINE
+acid	MEDICINE
 is	O
 a	O
 quinolone	O

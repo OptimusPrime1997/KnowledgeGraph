@@ -1,5 +1,5 @@
-Pachymic	O
-acid	O
+Pachymic	MEDICINE
+acid	MEDICINE
 is	O
 a	O
 natural	O
@@ -31,7 +31,7 @@ _	NUMBER
 .	O
 The	O
 dried	O
-sclerotiaof	O
+sclerotia	MEDICINE
 the	O
 fungus	O
 is	O
@@ -43,8 +43,8 @@ Chinese	NATIONALITY
 medicine	O
 ,	O
 and	O
-pachymic	O
-acid	O
+pachymic	MEDICINE
+acid	MEDICINE
 isone	O
 of	O
 the	O

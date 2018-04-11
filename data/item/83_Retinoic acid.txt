@@ -1,5 +1,5 @@
-Retinoic	O
-acid	O
+Retinoic	MEDICINE
+acid	MEDICINE
 is	O
 a	O
 morphogen	O
@@ -68,8 +68,8 @@ development	O
 of	O
 theheart	O
 .	O
-Retinoic	O
-acid	O
+Retinoic	MEDICINE
+acid	MEDICINE
 gradient	O
 is	O
 vital	O
@@ -172,7 +172,7 @@ associated	O
 with	O
 DiGeorge	O
 syndrome.Retinoic	O
-acid	O
+acid	MEDICINE
 is	O
 essential	O
 throughout	O

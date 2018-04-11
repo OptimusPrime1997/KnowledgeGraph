@@ -27,7 +27,7 @@ Boniva	PERSON
 The	O
 manufacturers	O
 of	O
-Boniva	O
+Boniva	MEDICINE
 ,	O
 arival	O
 bisphosphonate	O
@@ -81,7 +81,7 @@ its	O
 market	O
 share	O
 bydenigrating	O
-Boniva	O
+Boniva	MEDICINE
 '	O
 .	O
 Judge	TITLE

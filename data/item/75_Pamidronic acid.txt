@@ -8,7 +8,7 @@ loss	O
 ,	O
 and	O
 treat	O
-osteoporosis	O
+osteoporosis	DISEASE
 .	O
 It	O
 is	O
@@ -33,7 +33,7 @@ use	O
 and	O
 in	O
 certain	O
-cancers	O
+cancers	DISEASE
 with	O
 high	O
 propensity	O
