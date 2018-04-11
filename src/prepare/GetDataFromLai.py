@@ -9,7 +9,7 @@ def getHtmlText(url, page, rows, itemname):
     try:
         args_str = {'page': page, 'rows': rows, 'twpc.itemname': itemname}
         args_json = json.dumps(args_str, ensure_ascii=False)
-        print("args_json:" + args_json)
+        # print("args_json:" + args_json)
         r = requests.post(url, data=args_str, timeout=30)
 
         print(r.status_code)
@@ -21,8 +21,9 @@ def getHtmlText(url, page, rows, itemname):
         print("end:" + str(r.encoding))
         decode = simplejson.JSONDecoder().decode(r.text)
         rows = decode['rows']
-        for t in rows:
-            print(t['itemname'])
+        print("rows length:" + str(len(rows)))
+        # for t in rows:
+        #     print(t['itemname'])
         return decode
     except:
         return "Something Wrong!"
@@ -41,7 +42,13 @@ url = "http://www.5lai.com/bc/sells/sellitems!findBySE.action"
 # 按药品名称给出顺序给出信息
 url1 = "http://www.5lai.com/bc/sells/sellitems!finditemandspec.action"
 # 第一页，20个数据，搜索"acid"
-print(getHtmlText(url, 1, 2, "acid"))
+# print(getHtmlText(url, 1, 2, "acid"))
+searchTexts = ["protein", "sugar", "alcohol", "liquid", "salt",
+               "fragment", "separation", "tube", "detection", "oxygen"]
+for t in searchTexts:
+    print(t)
+    (getHtmlText(url, 1, 1000, t))
+
 # crawler_main(url1, "item.json")
 
 # read_item("E:\Workspace\Workspace_Python\KnownledgeGraph\draft\prepare\crawler\item.json")
